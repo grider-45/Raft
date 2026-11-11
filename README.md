@@ -228,4 +228,4 @@ Raft is a full free version with all features and updates included. There are no
 Get ready to embark on a thrilling survival journey with Raft! Download now and start crafting your adventure!
 
 ---
-**Last updated:** 2026-11-10 19:26:05 UTC
+**Last updated:** 2026-11-11 00:20:33 UTC
